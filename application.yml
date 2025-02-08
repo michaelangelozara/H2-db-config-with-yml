@@ -14,5 +14,5 @@ spring:
       ddl-auto: create-drop
 
 
-# Use this in your browser to login to the H2 Database
+# Use this URL in your browser to login to the H2 Database
 # http://localhost:8080/h2-console
